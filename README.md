@@ -1,7 +1,7 @@
-<h1 style="text-align:center;">Conformal Information Pursuit for Interactively Guiding Large Language Models</h1>
+<h1 style="text-align:center;">Conformal Information Pursuit for Interactively Guiding Large Language Models (NeurIPS 2025)</h1>
 
 <h4 style="text-align:center;">Kwan Ho Ryan Chan, Yuyan Ge, Edgar Dobriban, Hamed Hassani, René Vidal</h4>
-<p style="text-align:center;">University of Pennsylvania<br>Official NeurIPS 2025 Code Repository</p>
+<p style="text-align:center;">University of Pennsylvania<br>Official Code Repository</p>
 <a href="https://ryanchankh.github.io/ConformalInformationPursuit/"><p style="text-align:center"> Project Webpage </p></a>
 
 ## Requirements
