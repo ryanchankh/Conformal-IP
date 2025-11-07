@@ -8,6 +8,7 @@
 You can install from `requirements.txt`. TogetherAPI can be downloaded from their official [website](https://www.together.ai/). 
 
 ## Code Overview
+All the code used are located in `./src/`. The scripts used are located in `./scripts/`.
 
 ## Citation
 ```
