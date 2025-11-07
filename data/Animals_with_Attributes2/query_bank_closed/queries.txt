@@ -1,0 +1,85 @@
+Is the animal black? 
+Is the animal white? 
+Is the animal blue? 
+Is the animal brown? 
+Is the animal gray? 
+Is the animal orange? 
+Is the animal red? 
+Is the animal yellow? 
+Does the animal have patches? 
+Does the animal have spots? 
+Does the animal have stripes? 
+Is the animal furry? 
+Is the animal hairless? 
+Does the animal have tough skin? 
+Is the animal big? 
+Is the animal small? 
+Does the animal have a bulbous shape? 
+Is the animal lean? 
+Does the animal have flippers? 
+Does the animal have hands? 
+Does the animal have hooves? 
+Does the animal have pads? 
+Does the animal have paws? 
+Does the animal have long legs? 
+Does the animal have a long neck? 
+Does the animal have a tail? 
+Does the animal have chew teeth? 
+Does the animal have meat-eating teeth? 
+Does the animal have buck teeth? 
+Does the animal have strain teeth? 
+Does the animal have horns? 
+Does the animal have claws? 
+Does the animal have tusks? 
+Is the animal smelly? 
+Can the animal fly? 
+Can the animal hop? 
+Can the animal swim? 
+Does the animal tunnel? 
+Does the animal walk? 
+Is the animal fast? 
+Is the animal slow? 
+Is the animal strong? 
+Is the animal weak? 
+Does the animal have a lot of muscle? 
+Is the animal bipedal? 
+Is the animal quadrupedal? 
+Is the animal active? 
+Is the animal inactive? 
+Is the animal nocturnal? 
+Does the animal hibernate? 
+Does the animal have agility? 
+Does the animal eat fish? 
+Does the animal eat meat? 
+Does the animal eat plankton? 
+Does the animal eat vegetation? 
+Does the animal eat insects? 
+Is the animal a forager? 
+Is the animal a grazer? 
+Is the animal a hunter? 
+Is the animal a scavenger? 
+Is the animal a skimmer? 
+Is the animal a stalker? 
+Is the animal from the New World? 
+Is the animal from the Old World? 
+Does the animal live in the Arctic? 
+Does the animal live in a coastal region? 
+Does the animal live in the desert? 
+Does the animal live in the bush? 
+Does the animal live in the plains? 
+Does the animal live in the forest? 
+Does the animal live in fields? 
+Does the animal live in the jungle? 
+Does the animal live in the mountains? 
+Does the animal live in the ocean? 
+Does the animal live on the ground? 
+Does the animal live in water? 
+Does the animal live in trees? 
+Does the animal live in caves? 
+Is the animal fierce? 
+Is the animal timid? 
+Is the animal smart? 
+Does the animal live in a group? 
+Is the animal solitary? 
+Does the animal have a nesting spot? 
+Is the animal domestic?

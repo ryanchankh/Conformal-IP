@@ -1,0 +1,20 @@
+	1	giraffe
+	2	zebra
+	3	elephant
+	4	killer whale
+	5	dalmatian
+	6	polar bear
+	7	giant panda
+	8	hippopotamus
+	9	rhinoceros
+	10	lion
+	11	tiger
+	12	blue whale
+	13	walrus
+	14	grizzly bear
+	15	siamese cat
+	16	cow
+	17	german shepherd
+	18	gorilla
+	19	dolphin
+	20	moose

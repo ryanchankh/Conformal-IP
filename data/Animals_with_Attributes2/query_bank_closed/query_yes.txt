@@ -1,0 +1,85 @@
+The animal is black. 
+The animal is white. 
+The animal is blue. 
+The animal is brown. 
+The animal is gray. 
+The animal is orange. 
+The animal is red. 
+The animal is yellow. 
+The animal has patches. 
+The animal has spots. 
+The animal has stripes. 
+The animal is furry. 
+The animal is hairless. 
+The animal has tough skin. 
+The animal is big. 
+The animal is small. 
+The animal has a bulbous body. 
+The animal has a lean body. 
+The animal has flippers. 
+The animal has hands. 
+The animal has hooves. 
+The animal has pads on its feet. 
+The animal has paws. 
+The animal has long legs. 
+The animal has a long neck. 
+The animal has a tail. 
+The animal has chewing teeth. 
+The animal has meat-eating teeth. 
+The animal has buckteeth. 
+The animal has straining teeth. 
+The animal has horns. 
+The animal has claws. 
+The animal has tusks. 
+The animal is smelly. 
+The animal can fly. 
+The animal can hop. 
+The animal can swim. 
+The animal can tunnel underground. 
+The animal can walk. 
+The animal is fast. 
+The animal is slow. 
+The animal is strong. 
+The animal is weak. 
+The animal has well-developed muscles. 
+The animal is bipedal. 
+The animal is quadrupedal. 
+The animal is active. 
+The animal is inactive. 
+The animal is nocturnal. 
+The animal hibernates. 
+The animal is agile. 
+The animal eats fish. 
+The animal eats meat. 
+The animal eats plankton. 
+The animal eats vegetation. 
+The animal eats insects. 
+The animal is a forager. 
+The animal is a grazer. 
+The animal is a hunter. 
+The animal is a scavenger. 
+The animal is a skimmer. 
+The animal is a stalker. 
+The animal is from the New World. 
+The animal is from the Old World. 
+The animal lives in the Arctic. 
+The animal lives in coastal areas. 
+The animal lives in the desert. 
+The animal lives in the bush. 
+The animal lives in the plains. 
+The animal lives in the forest. 
+The animal lives in the fields. 
+The animal lives in the jungle. 
+The animal lives in the mountains. 
+The animal lives in the ocean. 
+The animal lives on the ground. 
+The animal lives in the water. 
+The animal lives in trees. 
+The animal lives in caves. 
+The animal is fierce. 
+The animal is timid. 
+The animal is smart. 
+The animal lives in a group. 
+The animal is solitary. 
+The animal has a specific nesting spot. 
+The animal is domestic.
