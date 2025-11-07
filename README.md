@@ -5,7 +5,7 @@
 <a href="https://ryanchankh.github.io/ConformalInformationPursuit/"><p style="text-align:center"> Project Webpage </p></a>
 
 ## Requirements
-
+You can install from `requirements.txt`. TogetherAPI can be downloaded from their official [website](https://www.together.ai/). 
 
 ## Code Overview
 
@@ -18,7 +18,7 @@
 }
 ```
 ## License
-This project is under the MIT License. See [LICENSE](./LICENSE.md) for details.
+This project is under the MIT License. See [LICENSE](./LICENSE) for details.
 
 
 
